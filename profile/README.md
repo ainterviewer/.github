@@ -12,5 +12,7 @@ The main platform and deployment information can be found in the [platform repos
 2. Platform [backend](https://github.com/ainterviewer/backend): FastAPI backend with database and api configuration  
 3. Platform [frontend](https://github.com/ainterviewer/frontend): SvelteKit frontend with UI to setup, manage, distribute and run AInterviewer
 
+Introduced in [ACL 2026 (System Demonstrations)](https://aclanthology.org/2026.acl-demo.12/).
+
 > [!warning]
 > The platform is still in early stages and under active development, so expect frequent and breaking changes.
